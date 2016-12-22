@@ -13,18 +13,15 @@
 
 
     <EditText
-        android:id="@+id/editText2"
+        android:id="@+id/ed_barcode"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="barcode"
-        android:text="tv_serial_no" />
-
+        android:hint="barcode" />
     <EditText
-        android:id="@+id/editText"
+        android:id="@+id/ed_serial_no"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="serial No"
-        android:text="tv_barcode" />
+        android:hint="serial No" />
 
     <Button
         android:id="@+id/bt_generate"

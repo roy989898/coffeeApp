@@ -6,6 +6,6 @@ package pom.coffeevoucher;
 
 public class StaticIntAndString {
 
-    public String INTENT_S_NUMBER_KEY = "INTENT_S_NUMBER_KEY";
-    public String INTENT_QR_NUMBER = "INTENT_QR_NUMBER";
+    public final static String INTENT_S_NUMBER_KEY = "INTENT_S_NUMBER_KEY";
+    public final static String INTENT_QR_NUMBER_KEY = "INTENT_QR_NUMBER_KEY";
 }
