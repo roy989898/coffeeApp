@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">coffeeVoucher</string>
+    <string name="valid_thru">Valid thru/有效期限</string>
+    <string name="e_voucher">e-Voucher/即享券序號</string>
+</resources>
